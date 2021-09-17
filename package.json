@@ -1,0 +1,17 @@
+{
+  "name": "mainandrendererprocess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^14.0.1"
+  },
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
